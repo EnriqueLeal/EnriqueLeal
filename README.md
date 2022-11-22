@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @EnriqueLeal
-- 👀 I’m interested in technology and Anime
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  I’m interested in technology and Anime
+-  
